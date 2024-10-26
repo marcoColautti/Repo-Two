@@ -1,0 +1,146 @@
+2024-10-15 11:10:26 : ============================================
+2024-10-15 11:10:26 : ****               Inizio               ****
+2024-10-15 11:10:26 : ============================================
+2024-10-15 11:10:26 : Data Source ... : [DESKTOP-0SC8PL0\SQLEXPRESS]
+2024-10-15 11:10:26 : User ID ....... : [usql]
+2024-10-15 11:10:26 : Password ...... : [***********]
+2024-10-15 11:10:26 : Catalog ....... : [Tutorial]
+2024-10-15 11:10:26 : ---------------------------------------------
+2024-10-15 11:10:41 : *********************************************
+2024-10-15 11:10:41 : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 26 - Error Locating Server/Instance Specified)
+2024-10-15 11:10:41 : *********************************************
+2024-10-15 11:10:42 : ============================================
+2024-10-15 11:10:42 : ****                Fine                ****
+2024-10-15 11:10:42 : ============================================
+2024-10-16 23:15:44 : ============================================
+2024-10-16 23:15:44 : ****               Inizio               ****
+2024-10-16 23:15:44 : ============================================
+2024-10-16 23:15:44 : Data Source ... : [DESKTOP-0SC8PL0\SQLEXPRESS]
+2024-10-16 23:15:44 : User ID ....... : [usql]
+2024-10-16 23:15:44 : Password ...... : [***********]
+2024-10-16 23:15:44 : Catalog ....... : [Tutorial]
+2024-10-16 23:15:44 : ---------------------------------------------
+2024-10-16 23:15:59 : *********************************************
+2024-10-16 23:15:59 : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 26 - Error Locating Server/Instance Specified)
+2024-10-16 23:15:59 : *********************************************
+2024-10-16 23:16:00 : ============================================
+2024-10-16 23:16:00 : ****                Fine                ****
+2024-10-16 23:16:00 : ============================================
+2024-10-16 23:35:04 : ============================================
+2024-10-16 23:35:04 : ****               Inizio               ****
+2024-10-16 23:35:04 : ============================================
+2024-10-16 23:35:04 : Data Source ... : [DESKTOP-0SC8PL0\SQLEXPRESS]
+2024-10-16 23:35:04 : User ID ....... : [usql]
+2024-10-16 23:35:04 : Password ...... : [***********]
+2024-10-16 23:35:04 : Catalog ....... : [Tutorial]
+2024-10-16 23:35:04 : ---------------------------------------------
+2024-10-16 23:35:19 : *********************************************
+2024-10-16 23:35:19 : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 26 - Error Locating Server/Instance Specified)
+2024-10-16 23:35:19 : *********************************************
+2024-10-16 23:35:19 : UPDATE agLibraryFile SET baseName = 'P2305_0146.ORF' WHERE id_local = 3783
+2024-10-16 23:35:19 : UPDATE agLibraryFile SET baseName = 'P2305_0177.ORF' WHERE id_local = 4775
+2024-10-16 23:35:19 : UPDATE agLibraryFile SET baseName = 'P2305_0144.ORF' WHERE id_local = 6197
+2024-10-16 23:35:19 : UPDATE agLibraryFile SET baseName = 'P2305_0209.ORF' WHERE id_local = 7655
+2024-10-16 23:35:19 : UPDATE agLibraryFile SET baseName = 'P2305_0208.ORF' WHERE id_local = 11628
+2024-10-16 23:35:19 : UPDATE agLibraryFile SET baseName = 'P2305_0112.ORF' WHERE id_local = 11985
+2024-10-16 23:35:19 : ============================================
+2024-10-16 23:35:19 : ****                Fine                ****
+2024-10-16 23:35:19 : ============================================
+2024-10-16 23:39:06 : ============================================
+2024-10-16 23:39:06 : ****               Inizio               ****
+2024-10-16 23:39:06 : ============================================
+2024-10-16 23:39:06 : Data Source ... : [DESKTOP-0SC8PL0\SQLEXPRESS]
+2024-10-16 23:39:06 : User ID ....... : [usql]
+2024-10-16 23:39:06 : Password ...... : [***********]
+2024-10-16 23:39:06 : Catalog ....... : [Tutorial]
+2024-10-16 23:39:06 : ---------------------------------------------
+2024-10-16 23:39:21 : *********************************************
+2024-10-16 23:39:21 : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 26 - Error Locating Server/Instance Specified)
+2024-10-16 23:39:21 : *********************************************
+2024-10-16 23:39:21 : UPDATE agLibraryFile SET baseName = 'P2305_0146.ORF' WHERE id_local = 3783
+2024-10-16 23:39:21 : UPDATE agLibraryFile SET baseName = 'P2305_0177.ORF' WHERE id_local = 4775
+2024-10-16 23:39:21 : UPDATE agLibraryFile SET baseName = 'P2305_0144.ORF' WHERE id_local = 6197
+2024-10-16 23:39:21 : UPDATE agLibraryFile SET baseName = 'P2305_0209.ORF' WHERE id_local = 7655
+2024-10-16 23:39:21 : UPDATE agLibraryFile SET baseName = 'P2305_0208.ORF' WHERE id_local = 11628
+2024-10-16 23:39:21 : UPDATE agLibraryFile SET baseName = 'P2305_0112.ORF' WHERE id_local = 11985
+2024-10-16 23:39:21 : ============================================
+2024-10-16 23:39:21 : ****                Fine                ****
+2024-10-16 23:39:21 : ============================================
+2024-10-16 23:46:50 : ============================================
+2024-10-16 23:46:50 : ****               Inizio               ****
+2024-10-16 23:46:50 : ============================================
+2024-10-16 23:46:50 : Data Source ... : [DESKTOP-0SC8PL0\SQLEXPRESS]
+2024-10-16 23:46:50 : User ID ....... : [usql]
+2024-10-16 23:46:51 : Password ...... : [***********]
+2024-10-16 23:46:51 : Catalog ....... : [Tutorial]
+2024-10-16 23:46:51 : ---------------------------------------------
+2024-10-16 23:46:51 : UPDATE agLibraryFile SET baseName = 'P2305_0146.ORF' WHERE id_local = 3783
+2024-10-16 23:46:51 : UPDATE agLibraryFile SET baseName = 'P2305_0177.ORF' WHERE id_local = 4775
+2024-10-16 23:46:51 : UPDATE agLibraryFile SET baseName = 'P2305_0144.ORF' WHERE id_local = 6197
+2024-10-16 23:46:51 : UPDATE agLibraryFile SET baseName = 'P2305_0209.ORF' WHERE id_local = 7655
+2024-10-16 23:46:51 : UPDATE agLibraryFile SET baseName = 'P2305_0208.ORF' WHERE id_local = 11628
+2024-10-16 23:46:51 : UPDATE agLibraryFile SET baseName = 'P2305_0112.ORF' WHERE id_local = 11985
+2024-10-16 23:46:51 : ============================================
+2024-10-16 23:46:51 : ****                Fine                ****
+2024-10-16 23:46:51 : ============================================
+2024-10-16 23:49:26 : ============================================
+2024-10-16 23:49:26 : ****               Inizio               ****
+2024-10-16 23:49:26 : ============================================
+2024-10-16 23:49:26 : Data Source ... : [DESKTOP-0SC8PL0\SQLEXPRESS]
+2024-10-16 23:49:26 : User ID ....... : [usql]
+2024-10-16 23:49:26 : Password ...... : [***********]
+2024-10-16 23:49:26 : Catalog ....... : [Tutorial]
+2024-10-16 23:49:26 : ---------------------------------------------
+2024-10-16 23:49:26 : UPDATE agLibraryFile SET baseName = 'P2305_0146.ORF' WHERE id_local = 3783
+2024-10-16 23:49:26 : UPDATE agLibraryFile SET baseName = 'P2305_0177.ORF' WHERE id_local = 4775
+2024-10-16 23:49:26 : UPDATE agLibraryFile SET baseName = 'P2305_0144.ORF' WHERE id_local = 6197
+2024-10-16 23:49:26 : UPDATE agLibraryFile SET baseName = 'P2305_0209.ORF' WHERE id_local = 7655
+2024-10-16 23:49:26 : UPDATE agLibraryFile SET baseName = 'P2305_0208.ORF' WHERE id_local = 11628
+2024-10-16 23:49:26 : UPDATE agLibraryFile SET baseName = 'P2305_0112.ORF' WHERE id_local = 11985
+2024-10-16 23:49:26 : ============================================
+2024-10-16 23:49:26 : ****                Fine                ****
+2024-10-16 23:49:26 : ============================================
+2024-10-16 23:58:51 : ============================================
+2024-10-16 23:58:51 : ****               Inizio               ****
+2024-10-16 23:58:51 : ============================================
+2024-10-16 23:58:51 : Data Source ... : [DESKTOP-0SC8PL0\SQLEXPRESS]
+2024-10-16 23:58:51 : User ID ....... : [usql]
+2024-10-16 23:58:51 : Password ...... : [***********]
+2024-10-16 23:58:51 : Catalog ....... : [Tutorial]
+2024-10-16 23:58:51 : ---------------------------------------------
+2024-10-16 23:58:52 : ============================================
+2024-10-16 23:58:52 : ****                Fine                ****
+2024-10-16 23:58:52 : ============================================
+2024-10-17 00:02:07 : ============================================
+2024-10-17 00:02:07 : ****               Inizio               ****
+2024-10-17 00:02:07 : ============================================
+2024-10-17 00:02:07 : Data Source ... : [DESKTOP-0SC8PL0\SQLEXPRESS]
+2024-10-17 00:02:07 : User ID ....... : [usql]
+2024-10-17 00:02:07 : Password ...... : [***********]
+2024-10-17 00:02:07 : Catalog ....... : [Tutorial]
+2024-10-17 00:02:07 : ---------------------------------------------
+2024-10-17 00:02:08 : ============================================
+2024-10-17 00:02:08 : ****                Fine                ****
+2024-10-17 00:02:08 : ============================================
+2024-10-17 00:04:51 : ============================================
+2024-10-17 00:04:51 : ****               Inizio               ****
+2024-10-17 00:04:51 : ============================================
+2024-10-17 00:04:51 : Data Source ... : [DESKTOP-0SC8PL0\SQLEXPRESS]
+2024-10-17 00:04:51 : User ID ....... : [usql]
+2024-10-17 00:04:51 : Password ...... : [***********]
+2024-10-17 00:04:51 : Catalog ....... : [Tutorial]
+2024-10-17 00:04:51 : ---------------------------------------------
+2024-10-17 00:04:51 : ============================================
+2024-10-17 00:04:51 : ****                Fine                ****
+2024-10-17 00:04:51 : ============================================
+2024-10-17 00:05:23 : ============================================
+2024-10-17 00:05:23 : ****               Inizio               ****
+2024-10-17 00:05:23 : ============================================
+2024-10-17 00:05:23 : Data Source ... : [DESKTOP-0SC8PL0\SQLEXPRESS]
+2024-10-17 00:05:23 : User ID ....... : [usql]
+2024-10-17 00:05:23 : Password ...... : [***********]
+2024-10-17 00:05:23 : Catalog ....... : [Tutorial]
+2024-10-17 00:05:23 : ---------------------------------------------
+2024-10-17 00:05:23 : ============================================
+2024-10-17 00:05:23 : ****                Fine                ****
+2024-10-17 00:05:23 : ============================================
