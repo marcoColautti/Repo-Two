@@ -17,8 +17,16 @@ class Program
         inizio.WriteLog();
 //  ---------------------------------------------------------------------------
 
-    CreaPersonaggi();
+//    CreaPersonaggi();
 
+        string marameo = "pinco palla marameo         ";
+        System.Console.WriteLine($"Marameo ..... [{marameo}]");
+
+        string myUpper = marameo.ToUpper();
+        string myTrim  = marameo.Trim();
+
+        System.Console.WriteLine($"Upper ..... [{myUpper}]");
+        System.Console.WriteLine($"Trim ...... [{myTrim}]");
 
 //    Random rnd = new Random();
 //    int hp = rnd.Next(3, 21); // creates a number between 1 and 12

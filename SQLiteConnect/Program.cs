@@ -11,7 +11,7 @@ using Microsoft.Data.SqlClient;
 
 
 
-        static void Main())
+        static void Main()
         {
 
 // ------------------------------------------------------------------------------------

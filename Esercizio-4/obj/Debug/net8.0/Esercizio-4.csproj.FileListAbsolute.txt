@@ -1,0 +1,15 @@
+/Users/marco/Documents/Sviluppo/Repo-Two/Esercizio-4/bin/Debug/net8.0/Esercizio-4
+/Users/marco/Documents/Sviluppo/Repo-Two/Esercizio-4/bin/Debug/net8.0/Esercizio-4.deps.json
+/Users/marco/Documents/Sviluppo/Repo-Two/Esercizio-4/bin/Debug/net8.0/Esercizio-4.runtimeconfig.json
+/Users/marco/Documents/Sviluppo/Repo-Two/Esercizio-4/bin/Debug/net8.0/Esercizio-4.dll
+/Users/marco/Documents/Sviluppo/Repo-Two/Esercizio-4/bin/Debug/net8.0/Esercizio-4.pdb
+/Users/marco/Documents/Sviluppo/Repo-Two/Esercizio-4/obj/Debug/net8.0/Esercizio-4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marco/Documents/Sviluppo/Repo-Two/Esercizio-4/obj/Debug/net8.0/Esercizio-4.AssemblyInfoInputs.cache
+/Users/marco/Documents/Sviluppo/Repo-Two/Esercizio-4/obj/Debug/net8.0/Esercizio-4.AssemblyInfo.cs
+/Users/marco/Documents/Sviluppo/Repo-Two/Esercizio-4/obj/Debug/net8.0/Esercizio-4.csproj.CoreCompileInputs.cache
+/Users/marco/Documents/Sviluppo/Repo-Two/Esercizio-4/obj/Debug/net8.0/Esercizio-4.sourcelink.json
+/Users/marco/Documents/Sviluppo/Repo-Two/Esercizio-4/obj/Debug/net8.0/Esercizio-4.dll
+/Users/marco/Documents/Sviluppo/Repo-Two/Esercizio-4/obj/Debug/net8.0/refint/Esercizio-4.dll
+/Users/marco/Documents/Sviluppo/Repo-Two/Esercizio-4/obj/Debug/net8.0/Esercizio-4.pdb
+/Users/marco/Documents/Sviluppo/Repo-Two/Esercizio-4/obj/Debug/net8.0/Esercizio-4.genruntimeconfig.cache
+/Users/marco/Documents/Sviluppo/Repo-Two/Esercizio-4/obj/Debug/net8.0/ref/Esercizio-4.dll
