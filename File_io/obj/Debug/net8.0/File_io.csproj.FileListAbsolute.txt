@@ -1,0 +1,15 @@
+/Users/marco/Documents/Sviluppo/Repo-Two/File_io/bin/Debug/net8.0/File_io
+/Users/marco/Documents/Sviluppo/Repo-Two/File_io/bin/Debug/net8.0/File_io.deps.json
+/Users/marco/Documents/Sviluppo/Repo-Two/File_io/bin/Debug/net8.0/File_io.runtimeconfig.json
+/Users/marco/Documents/Sviluppo/Repo-Two/File_io/bin/Debug/net8.0/File_io.dll
+/Users/marco/Documents/Sviluppo/Repo-Two/File_io/bin/Debug/net8.0/File_io.pdb
+/Users/marco/Documents/Sviluppo/Repo-Two/File_io/obj/Debug/net8.0/File_io.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marco/Documents/Sviluppo/Repo-Two/File_io/obj/Debug/net8.0/File_io.AssemblyInfoInputs.cache
+/Users/marco/Documents/Sviluppo/Repo-Two/File_io/obj/Debug/net8.0/File_io.AssemblyInfo.cs
+/Users/marco/Documents/Sviluppo/Repo-Two/File_io/obj/Debug/net8.0/File_io.csproj.CoreCompileInputs.cache
+/Users/marco/Documents/Sviluppo/Repo-Two/File_io/obj/Debug/net8.0/File_io.sourcelink.json
+/Users/marco/Documents/Sviluppo/Repo-Two/File_io/obj/Debug/net8.0/File_io.dll
+/Users/marco/Documents/Sviluppo/Repo-Two/File_io/obj/Debug/net8.0/refint/File_io.dll
+/Users/marco/Documents/Sviluppo/Repo-Two/File_io/obj/Debug/net8.0/File_io.pdb
+/Users/marco/Documents/Sviluppo/Repo-Two/File_io/obj/Debug/net8.0/File_io.genruntimeconfig.cache
+/Users/marco/Documents/Sviluppo/Repo-Two/File_io/obj/Debug/net8.0/ref/File_io.dll
