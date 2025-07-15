@@ -57,7 +57,7 @@ public static class Utilities
 
     try
     {
-        StreamWriter logbook = new StreamWriter("Logbook.txt", true, Encoding.ASCII);
+        StreamWriter logbook = new StreamWriter(Program.logPath + "Logbook.txt", true, Encoding.ASCII);
         string timeToPrint = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
         logbook.WriteLine($"{timeToPrint} : {message}");
         logbook.Close();

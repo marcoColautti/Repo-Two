@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marco/Documents/Sviluppo/Repo-Two/File_io/File_io.csproj",
+      "projectUniqueName": "/Users/marco/Repo-Two/File_io/File_io.csproj",
       "projectName": "File_io",
-      "projectPath": "/Users/marco/Documents/Sviluppo/Repo-Two/File_io/File_io.csproj",
+      "projectPath": "/Users/marco/Repo-Two/File_io/File_io.csproj",
       "packagesPath": "/Users/marco/.nuget/packages/",
-      "outputPath": "/Users/marco/Documents/Sviluppo/Repo-Two/File_io/obj/",
+      "outputPath": "/Users/marco/Repo-Two/File_io/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/marco/.nuget/NuGet/NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

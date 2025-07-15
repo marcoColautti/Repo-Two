@@ -5,55 +5,55 @@
     {
         public const bool v3rb0se = true;   // Se true, oltre a scrivere nel LogBook visualizza il messaggio anche a terminale
         public const int  lineLength = 45;  // Imposta la lunghezza delle linee separatrici nei messaggi
+        public const string logPath = "/Users/marco/Repo-Two/logs/";  // Imposta la posizione per il logbook
+    static void Main()
+    {
+        Utilities.WriteBanner("Inizio");
 
-        static void Main()
+        try
         {
-            Utilities.WriteBanner("Inizio");
+            SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder();
 
-            try 
-            { 
-                SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder();
+            builder.DataSource = "192.168.178.31";
+            builder.UserID = "anapc";
+            builder.Password = "adm4ANAPC1";
+            builder.InitialCatalog = "ANABASE";
+            builder.TrustServerCertificate = true;
 
-                builder.DataSource             = "Localhost\\SQLEXPRESS"; 
-                builder.UserID                 = "usql";            
-                builder.Password               = "adm4SQL1";     
-                builder.InitialCatalog         = "Tutorial";
-                builder.TrustServerCertificate = true;
-         
-                Utilities.WriteLogBook("Data Source ... : [" + builder.DataSource + "]");
-                Utilities.WriteLogBook("User ID ....... : [" + builder.UserID + "]");
-                Utilities.WriteLogBook("Password ...... : [***********]");
-                Utilities.WriteLogBook("Catalog ....... : [" + builder.InitialCatalog + "]");
-                Utilities.WriteLine("-", lineLength);
+            Utilities.WriteLogBook("Data Source ... : [" + builder.DataSource + "]");
+            Utilities.WriteLogBook("User ID ....... : [" + builder.UserID + "]");
+            Utilities.WriteLogBook("Password ...... : [***********]");
+            Utilities.WriteLogBook("Catalog ....... : [" + builder.InitialCatalog + "]");
+            Utilities.WriteLine("-", lineLength);
 
-                using (SqlConnection connection = new SqlConnection(builder.ConnectionString))
-                
+            using (SqlConnection connection = new SqlConnection(builder.ConnectionString))
+
+            {
+                Console.WriteLine();
+                Console.WriteLine("Query data example:");
+                Console.WriteLine("==============================================");
+
+                connection.Open();
+
+                String sql = "SELECT Alimenti_ID, Descrizione_1, UM  FROM dbo.Alimenti WHERE Gruppo_ID = 108 ORDER BY Alimenti_ID";
+
+                using (SqlCommand command = new SqlCommand(sql, connection))
                 {
-                    Console.WriteLine();
-                    Console.WriteLine("Query data example:");
-                    Console.WriteLine("==============================================");
-                    
-                    connection.Open();       
-
-                    String sql = "SELECT codice_belfiore, denominazione_ita, sigla_provincia FROM dbo.gi_comuni WHERE flag_capoluogo = 'SI' ORDER BY denominazione_ita";
-
-                    using (SqlCommand command = new SqlCommand(sql, connection))
+                    using (SqlDataReader reader = command.ExecuteReader())
                     {
-                        using (SqlDataReader reader = command.ExecuteReader())
+                        while (reader.Read())
                         {
-                            while (reader.Read())
-                            {
-                                Console.WriteLine("{0} {1} ({2})", reader.GetString(0), reader.GetString(1), reader.GetString(2));
-                            }
+                            Console.WriteLine("{0} {1} ({2})", reader.GetInt32(0), reader.GetString(1), reader.GetString(2));
                         }
-                    }                    
+                    }
                 }
             }
-            catch (SqlException e)
-            {
-                Utilities.WriteError(e.ToString());
-            }
-
-            Utilities.WriteBanner("Fine");
         }
+        catch (SqlException e)
+        {
+            Utilities.WriteError(e.ToString());
+        }
+
+        Utilities.WriteBanner("Fine");
+    }
     }

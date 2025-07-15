@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/marco/Documents/Sviluppo/Repo-Two/Esercizio-3/Esercizio-3.csproj": {}
+    "/Users/marco/Repo-Two/Esercizio-3/Esercizio-3.csproj": {}
   },
   "projects": {
-    "/Users/marco/Documents/Sviluppo/Repo-Two/Esercizio-3/Esercizio-3.csproj": {
+    "/Users/marco/Repo-Two/Esercizio-3/Esercizio-3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marco/Documents/Sviluppo/Repo-Two/Esercizio-3/Esercizio-3.csproj",
+        "projectUniqueName": "/Users/marco/Repo-Two/Esercizio-3/Esercizio-3.csproj",
         "projectName": "Esercizio-3",
-        "projectPath": "/Users/marco/Documents/Sviluppo/Repo-Two/Esercizio-3/Esercizio-3.csproj",
+        "projectPath": "/Users/marco/Repo-Two/Esercizio-3/Esercizio-3.csproj",
         "packagesPath": "/Users/marco/.nuget/packages/",
-        "outputPath": "/Users/marco/Documents/Sviluppo/Repo-Two/Esercizio-3/obj/",
+        "outputPath": "/Users/marco/Repo-Two/Esercizio-3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/marco/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

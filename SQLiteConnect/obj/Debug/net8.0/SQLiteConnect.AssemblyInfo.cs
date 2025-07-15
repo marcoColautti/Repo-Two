@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SQLiteConnect")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+945184cc1c3e5f7f145d2512b5592ff03b223f94")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdaf556938a1454730ebb797ca0739068bc8981e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SQLiteConnect")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SQLiteConnect")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
