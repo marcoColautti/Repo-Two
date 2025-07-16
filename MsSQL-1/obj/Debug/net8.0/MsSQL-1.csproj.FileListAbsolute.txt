@@ -1,0 +1,5 @@
+/Users/marco/Repo-Two/MsSQL-1/obj/Debug/net8.0/MsSQL-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marco/Repo-Two/MsSQL-1/obj/Debug/net8.0/MsSQL-1.AssemblyInfoInputs.cache
+/Users/marco/Repo-Two/MsSQL-1/obj/Debug/net8.0/MsSQL-1.AssemblyInfo.cs
+/Users/marco/Repo-Two/MsSQL-1/obj/Debug/net8.0/MsSQL-1.csproj.CoreCompileInputs.cache
+/Users/marco/Repo-Two/MsSQL-1/obj/Debug/net8.0/MsSQL-1.sourcelink.json

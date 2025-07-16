@@ -26,6 +26,11 @@
             Utilities.WriteLogBook("Catalog ....... : [" + builder.InitialCatalog + "]");
             Utilities.WriteLine("-", lineLength);
 
+            System.Console.Clear();
+            System.Console.Write("Group ID ... : ");
+            String myGroupID = System.Console.ReadLine();
+            Utilities.WriteLogBook($"Elaboro Gruppo .. : [{myGroupID}]");
+
             using (SqlConnection connection = new SqlConnection(builder.ConnectionString))
 
             {
@@ -35,7 +40,8 @@
 
                 connection.Open();
 
-                String sql = "SELECT Alimenti_ID, Descrizione_1, UM  FROM dbo.Alimenti WHERE Gruppo_ID = 108 ORDER BY Alimenti_ID";
+                String sql = "SELECT Alimenti_ID, Descrizione_1, UM  FROM dbo.Alimenti WHERE Gruppo_ID = " + myGroupID + " ORDER BY Alimenti_ID";
+                Utilities.WriteLogBook($"SQL .... : [{sql}]");
 
                 using (SqlCommand command = new SqlCommand(sql, connection))
                 {

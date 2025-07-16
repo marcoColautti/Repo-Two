@@ -1,6 +1,6 @@
-﻿using System;
+﻿using Microsoft.Data.SqlClient;
+using System;
 using System.Data.SQLite;
-using Microsoft.Data.SqlClient;
 
     class Program
     {
@@ -21,10 +21,10 @@ using Microsoft.Data.SqlClient;
             { 
                 SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder();
 
-                builder.DataSource             = "DESKTOP-0SC8PL0\\SQLEXPRESS"; 
-                builder.UserID                 = "usql";            
-                builder.Password               = "adm4SQL1";     
-                builder.InitialCatalog         = "Tutorial";
+                builder.DataSource             = "192.168.178.31"; 
+                builder.UserID                 = "anapc";            
+                builder.Password               = "adm4ANAPC1";     
+                builder.InitialCatalog         = "ANABASE";
                 builder.TrustServerCertificate = true;
          
                 Utilities.WriteLogBook("Data Source ... : [" + builder.DataSource + "]");

@@ -1,0 +1,5 @@
+/Users/marco/Repo-Two/SQLiteConnect/obj/Debug/net8.0/SQLiteConnect.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marco/Repo-Two/SQLiteConnect/obj/Debug/net8.0/SQLiteConnect.AssemblyInfoInputs.cache
+/Users/marco/Repo-Two/SQLiteConnect/obj/Debug/net8.0/SQLiteConnect.AssemblyInfo.cs
+/Users/marco/Repo-Two/SQLiteConnect/obj/Debug/net8.0/SQLiteConnect.csproj.CoreCompileInputs.cache
+/Users/marco/Repo-Two/SQLiteConnect/obj/Debug/net8.0/SQLiteConnect.sourcelink.json
